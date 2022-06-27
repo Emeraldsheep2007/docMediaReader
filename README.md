@@ -1,5 +1,7 @@
 # docMediaReader
 **Past Tense: pptxMediaReader
+在2022年1月的 public 1.0版本升级为 docMediaReader
+支持更多文档的图片提取任务！
 
 Just a simple tool for taking out the media file inside a pptx(Powerpoint), .docx(Word), .xlsx(Excel chart) File.
 
